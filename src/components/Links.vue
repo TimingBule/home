@@ -70,6 +70,7 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  HeartRateMonitor,
 };
 
 // 链接跳转
